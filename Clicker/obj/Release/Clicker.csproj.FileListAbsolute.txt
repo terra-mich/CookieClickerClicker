@@ -1,0 +1,7 @@
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\bin\Release\Clicker.exe
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\bin\Release\Clicker.pdb
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.Form1.resources
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.Properties.Resources.resources
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.csproj.GenerateResource.Cache
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.exe
+c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.pdb
