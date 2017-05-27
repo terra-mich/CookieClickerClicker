@@ -5,3 +5,7 @@ c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Cl
 c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.csproj.GenerateResource.Cache
 c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.exe
 c:\users\yo\documents\visual studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.pdb
+C:\Users\yo\Documents\Visual Studio 2015\Projects\Clicker\Clicker\bin\Release\Clicker.exe.config
+C:\Users\yo\Documents\Visual Studio 2015\Projects\Clicker\Clicker\bin\Release\Newtonsoft.Json.dll
+C:\Users\yo\Documents\Visual Studio 2015\Projects\Clicker\Clicker\bin\Release\Newtonsoft.Json.xml
+C:\Users\yo\Documents\Visual Studio 2015\Projects\Clicker\Clicker\obj\Release\Clicker.KeyBinder.resources
